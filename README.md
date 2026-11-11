@@ -1,4 +1,11 @@
-<img width="240" height="240" alt="cone vision" src="https://github.com/user-attachments/assets/75500439-835e-455b-b3dc-f9e2c73473d5" />
+<p align="center">
+  <img
+    width="240"
+    height="240"
+    alt="cone vision"
+    src="https://github.com/user-attachments/assets/75500439-835e-455b-b3dc-f9e2c73473d5"
+  />
+</p>
 
 # cone.vision_Comfyui
 A community resource hub for AI creators. Discover curated ComfyUI custom nodes, AI models, workflows, download links, and practical guides for AI image and video generation. Open, accessible, and shared with the community.

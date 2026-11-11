@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/291f4ce3-e28a-42dd-8f2a-2dacd19d8a92
+https://github.com/user-attachments/assets/fe7e4ce5-0f2a-4a6e-8d10-0a93bdfd3af2
 
 
 # cone.vision_Comfyui

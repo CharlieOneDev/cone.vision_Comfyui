@@ -1,3 +1,6 @@
+https://github.com/user-attachments/assets/291f4ce3-e28a-42dd-8f2a-2dacd19d8a92
+
+
 # cone.vision_Comfyui
 A community resource hub for AI creators. Discover curated ComfyUI custom nodes, AI models, workflows, download links, and practical guides for AI image and video generation. Open, accessible, and shared with the community.
 
@@ -15,5 +18,7 @@ Here you'll find:
 My goal is to make useful AI resources easier to discover, access, and use.
 
 Feel free to explore, share, and contribute!
+
+My Channel: https://www.youtube.com/@cone.vision 
 
 **Happy Creating!**

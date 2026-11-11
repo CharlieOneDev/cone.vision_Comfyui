@@ -1,5 +1,4 @@
-https://github.com/user-attachments/assets/fe7e4ce5-0f2a-4a6e-8d10-0a93bdfd3af2
-
+<img width="240" height="240" alt="cone vision" src="https://github.com/user-attachments/assets/75500439-835e-455b-b3dc-f9e2c73473d5" />
 
 # cone.vision_Comfyui
 A community resource hub for AI creators. Discover curated ComfyUI custom nodes, AI models, workflows, download links, and practical guides for AI image and video generation. Open, accessible, and shared with the community.
